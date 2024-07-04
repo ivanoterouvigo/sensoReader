@@ -4,19 +4,17 @@ lector de datos sensor
 # architecture
 
 sensor_app/
+
 ├── main.py
-
 ├── sensor.py
-
 ├── database.py
-
 ├── nats_client.py
-
 └── config.py
 
 
 # needed libraries
 pip install nats-py
+
 pip install sqlite3 
 
 # to run the app
