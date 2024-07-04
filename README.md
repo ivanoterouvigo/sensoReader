@@ -5,11 +5,14 @@ lector de datos sensor
 
 sensor_app/
 ├── main.py
+
 ├── sensor.py
+
 ├── database.py
+
 ├── nats_client.py
-├── config.py
-└── requirements.txt
+
+└── config.py
 
 
 # needed libraries
